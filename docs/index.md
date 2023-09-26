@@ -8,7 +8,7 @@ nav_order: 1
 
 ## second level header
 This is my list
--first
--second
--*italics*
--**bolded**
+- first
+- second
+- *italics*
+- **bolded**
