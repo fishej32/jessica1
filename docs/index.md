@@ -12,3 +12,17 @@ This is my list
 - second
 - *italics*
 - **bolded**
+
+<br>
+
+now there's space
+
+~~This has a strikethrough~~
+
+***This is very important***
+
+H<sub>2</sub>O
+
+10<sup>6</sup>
+
+I ♥️ chocolate
